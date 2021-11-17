@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlvisQ
+- 👋 Hi, I’m @Olvis
 - 👀 I’m interested in frontend development with React and Vue
 - 🌱 I’m currently learning python
 - 💞️ I’m looking for long term contract with enterprise projects
