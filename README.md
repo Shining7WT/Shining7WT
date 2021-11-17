@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OlvisQ
+- 👀 I’m interested in frontend development with React and Vue
+- 🌱 I’m currently learning python
+- 💞️ I’m looking for long term contract with enterprise projects
+- 📫 How to reach me. oaqv.dev@gmail.com
